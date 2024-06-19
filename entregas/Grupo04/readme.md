@@ -207,7 +207,7 @@
 
 &nbsp;
 
-<h3>Endpoint DELETE<code>/computadoras/:codigo</code></h3>
+<h3>Endpoint DELETE <code>/computadoras/:codigo</code></h3>
 
 &nbsp;
 
